@@ -1,1 +1,3 @@
-# ebholi.github.io
+# Tier-Website
+
+Diese Website ist ein Schulprojekt.
